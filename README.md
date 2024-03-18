@@ -75,3 +75,17 @@ int main()
     sortCard(deck, n);
 }
 
+hasil:
+Masukkan jumlah kartu: 5
+Masukkan nilai kartu: 3 J Q K 7
+Swap 1: 3 7 Q K J 
+Swap 2: 3 7 J K Q 
+Swap 3: 3 7 J Q K 
+Jumlah minimal langkah pertukaran: 3
+
+
+
+
+Penjelasan:
+
+Pertama tama progam meminta input jumlah kartu yang di inginkan, lalu di alokasi ke array sesuai dengan jumlah kartu tersebut. Lalu terjadi bubblesort,  Loop terluar berjalan sebanyak elemen dalam array. lalu terjadi pengecekan dan pengurutan.
