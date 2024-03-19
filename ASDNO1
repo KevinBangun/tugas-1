@@ -88,4 +88,4 @@ Jumlah minimal langkah pertukaran: 3
 
 Penjelasan:
 
-Pertama tama progam meminta input jumlah kartu yang di inginkan, lalu di alokasi ke array sesuai dengan jumlah kartu tersebut. Lalu terjadi bubblesort,  Loop terluar berjalan sebanyak elemen dalam array. lalu terjadi pengecekan dan pengurutan.
+Pertama tama progam meminta input jumlah kartu yang di inginkan, lalu di alokasi ke array sesuai dengan jumlah kartu tersebut.maka akan terjadi  bubblesort,  Loop terluar berjalan sebanyak elemen dalam array. lalu terjadi pengecekan dan pengurutan.
